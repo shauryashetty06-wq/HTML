@@ -1,0 +1,19 @@
+<doctype html>
+    <html>
+        <title>Pizza Blog</title>
+    <head>All about pizzas</head>
+    <h1>Pizza Blog</h1>
+    <p>Welcome to the ultimate pizza blog where we explore everything about pizzas!</p>
+    <h2>History of Pizza</h2>
+    <p>Pizza originated in Italy and has become one of the most popular foods worldwide.</
+    <h2>Types of Pizza</h2>
+    <p>There are many types of pizza including Margherita, Pepperoni, BBQ
+    Chicken, and Veggie.</p>
+    <h2>Making the Perfect Pizza</h2>
+    <p>To make the perfect pizza, start with a good dough recipe, use fresh ingredients, and bake at a high temperature.</p>
+    <h2>Pizza Toppings</h2>
+    <p>Popular pizza toppings include cheese, pepperoni, mushrooms, onions, and bell peppers.</p>
+    <h2>Pizza Around the World</h2>
+    <p>Different countries have their own unique styles of pizza, such as New York-style
+    pizza in the USA and Neapolitan pizza in Italy.</p>
+    </html>
