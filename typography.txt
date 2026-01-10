@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <title>Typography</title>
+    <style>
+
+        .text1 {
+            color: blue;
+        }
+
+        .text2 {
+            font-size: 30px;
+        }
+        h1 {
+            font-family: 'Arial Black', sans-serif;
+            color: darkred;
+        }
+
+        h2 {
+            font-family: 'Verdana', sans-serif;
+            color: darkgreen;
+        }
+
+        h3 {
+            font-family: 'Tahoma', sans-serif;
+            color: darkblue;
+        }
+        
+        h4 {
+            font-family: 'Georgia', serif;
+            color: darkorange;
+        
+        }
+    </style>
+<body>  
+    <h1 class="text1">This is Heading 1</h1>
+    <h2 class="text2">This is Heading 2</h2>
+    <h3>This is Heading 3</h3>
+    <h4>This is Heading 4</h4>
+    <p class="text1">This is a paragraph with blue text.</p>
+    <p class="text2">This is a paragraph with larger font size.</p>
+    <body>
+        <h1>codingal</h1>
+        <h2>codingal</h2>
+        <h3>CODINGAL</h3>
+        <h4>CODINGAL</h4>
+    </body>
+</html>
